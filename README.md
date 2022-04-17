@@ -1,4 +1,4 @@
-# SE_Lab_Assignment2
+# Software Engineering Lab Assignment 2
 
 [Openstreetmap](www.openstreetmap.org) is a free and open resource which provides high  quality map data for all areas in the world. OSM is an xml-based format, which has various elements and the attributes for those elements.
 
