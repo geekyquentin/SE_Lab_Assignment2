@@ -20,4 +20,4 @@ Finding the k-closest nodes to a given node using the crow fly distance. To calc
 Calculate the shortest path between two node elements, through the way elements. The distance on a way is the sum of distances between consecutive node elements in the way.
 
 ## Instructions:
-Run the [`20CS30036_Assign2`](https://github.com/geekyquentin/SE_Lab_Assignment2/blob/master/20CS30036_Assign2.cpp) file.
+Run the [`20CS30036_Assign2.cpp`](https://github.com/geekyquentin/SE_Lab_Assignment2/blob/master/20CS30036_Assign2.cpp) file.
